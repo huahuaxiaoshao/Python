@@ -1,4 +1,3 @@
-# Python
 ## Algorithm
 总结了一些算法
 ## ML
